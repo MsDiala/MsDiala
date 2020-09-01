@@ -1,16 +1,19 @@
-### Hi there 👋
+### **Hi, I am Diala** 👋
 
-<!--
-**MsDiala/MsDiala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 learning [Javascript][https://www.w3schools.com/js/default.asp] and [HTML][https://www.w3schools.com/html/default.asp]  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐦 [twitter][twitter] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
+
+[twitter]: https://twitter.com/home
+[instagram]: https://www.instagram.com/daldolyazoury/
+[linkedin]: https://www.linkedin.com/in/diala-nabeel-ba289050/
+
+- 🌱 I’m currently learning HTML,CSS,Javascript
+- 🤔 I’m looking for help with designing a website.
+- 😄 Pronouns: she/her
+- ⚡ Fun fact:Monkeys used to scare me so much as a kid! 
+
