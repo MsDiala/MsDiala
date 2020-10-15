@@ -1,6 +1,7 @@
 ### **Hi, I am Diala** 👋
+I am 24 years old , I studied mathematices at university of Petra .
 
-🧠 learning [Javascript][https://www.w3schools.com/js/default.asp] and [HTML][https://www.w3schools.com/html/default.asp]  
+🧠 learning [Javascript] and [HTML]
 
 
 🐦 [twitter][twitter] **|** 
@@ -15,5 +16,4 @@
 - 🌱 I’m currently learning HTML,CSS,Javascript
 - 🤔 I’m looking for help with designing a website.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact:Monkeys used to scare me so much as a kid! 
 
